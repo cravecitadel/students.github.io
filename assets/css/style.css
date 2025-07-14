@@ -3,3 +3,7 @@ img.image{
     width: 1400px;
     opacity: 1;
 }
+
+#devimage{
+    opacity: 0.01;
+}
