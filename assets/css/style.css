@@ -8,6 +8,6 @@ img.image{
 }
 #wps{
     background-color: lime;
-    position: fixed;
     font-type: arial;
+    float: right;
 }
