@@ -6,3 +6,8 @@ img.image{
 .img-fluid{
     opacity: 0.2;
 }
+#wps{
+    background-color: lime;
+    position: fixed;
+    font-type: arial;
+}
