@@ -12,3 +12,6 @@ a#wps{
     font-type: arial;
     float: right;
 }
+#wps.hover{
+    font-color: red;
+}
