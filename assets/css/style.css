@@ -7,6 +7,7 @@ img.image{
     opacity: 0.2;
 }
 #wps{
+    font-color: blue;
     background-color: lime;
     font-type: arial;
     float: right;
