@@ -6,7 +6,7 @@ img.image{
 .img-fluid{
     opacity: 0.1;
 }
-#wps{
+a#wps{
     font-color: blue;
     background-color: lime;
     font-type: arial;
